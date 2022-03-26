@@ -17,7 +17,7 @@ Say a police personnel wants to trace the route followed by a suspect's car, whi
 
 * Track a vehicle by license plate number - Use our search feature to track a suspected vehicle by using it's License plate number. Enter the number in the search bar and you will be able to view the path of the car on map
 * Search by Video/Photo - This accounts for a more realistic scenario as this forms the basis of our idea. Continuous feed will be taken from the CCTV cameras, will be saved in the database, will be fed to our model and then the path of the criminal can be viewed easily on the map.
-* 
+* Live tracking of the suspect - 
 
 
 ## Links
@@ -36,7 +36,10 @@ Tools and technologies that you learnt and used in the project.
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
 
 ## Usage
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+cd into client folder using the command
+  > cd client
+run npm start to build the project
+  > npm start
 
 ## Applications
 >How can your project do its part in solving a real-life problem? What are its possible applications? Describe here.
@@ -45,6 +48,5 @@ Tools and technologies that you learnt and used in the project.
 >Mention ways in which the project can be improved and built upon in the future.
 
 ## Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
-![Screenshot alt text](https://img.freepik.com/free-photo/blue-purple-technology-circuit_73426-205.jpg "Here is a screenshot")
+![Screenshot alt text](https://drive.google.com/file/d/17rggjYTo97uDwxDy349OsLyrq1vQ_j9d/view?usp=sharing)
