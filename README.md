@@ -48,7 +48,7 @@ cd into client side
 ## Applications
 
 #### Our solution solves a big major issue that is being faced by the police
->Eradicates Manual Effort : Police have to check CCTV footage manually in order to track a suspect. But with this solution the manual effort of police has been simplified.
+>Eradicates Manual Effort : Police have to check CCTV footage manually in order to track a suspect. But with this solution the manual effort of police has been simplified. Also helps in achieving the goal of improving the nation's security.
 
 >This process can be done continuously over a period of time to even track the past activity of the suspect
 
